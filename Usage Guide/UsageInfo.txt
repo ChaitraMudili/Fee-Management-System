@@ -1,0 +1,4 @@
+The project can be run using MAMP Server. 
+Thereafter, the SQL file needs to be imported to PhpMyAdmin.
+Start exploring from "MyIndex.html" for ease of use.
+
